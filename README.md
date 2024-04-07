@@ -6,4 +6,5 @@ https://3column-cards-challenge.netlify.app/
 #### Semantic HTML5 markup
 #### CSS custom properties
 #### CSS Flexbox
+#### CSS Grid
 #### Responsive web design
